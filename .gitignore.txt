@@ -1,0 +1,11 @@
+# Ignorer les fichiers compilés
+*.o
+*.exe
+
+# Ignorer les bibliothèques dynamiques
+*.dll
+*.so
+*.dylib
+
+# Ignorer les backups et fichiers temporaires
+*~
